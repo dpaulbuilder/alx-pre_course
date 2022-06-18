@@ -1,3 +1,1 @@
-my first readme'
-This is my first repository
-Update my git
+How to be up to date in git
